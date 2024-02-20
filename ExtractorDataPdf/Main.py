@@ -20,7 +20,7 @@ class Main:
     
 
     for persona in personas:
-        file = open('datos_extraidos.txt', 'w').write(str(persona)+"\n")
+        file = open('datos_extraidos.txt', 'a').write(str(persona)+"\n")
         print(persona)
     
     

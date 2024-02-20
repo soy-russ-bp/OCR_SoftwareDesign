@@ -20,8 +20,8 @@
 * Eficacia: El sistema tiene el resultado esperado
 
 ### Reestricciones
-* Rendimiento:  Incluye restricciones sobre tiempos de respuesta, tiempo de procesamiento.
+* **Rendimiento:**  Incluye restricciones sobre tiempos de respuesta, tiempo de procesamiento.
 * Usabilidad: 
-* Seguridad: La capacidad del software para proteger la información y los datos, evitando el acceso no autorizado o la pérdida de información. Incluye la confidencialidad, la integridad, la autenticación, la autorización, y la no repudiación.
-* Compatibilidad: El sistema únicamente extrae adecuadamaente los datos de CURPs escaneadas
-* Seguridad: 
+* **Seguridad:** La capacidad del software para proteger la información y los datos, evitando el acceso no autorizado o la pérdida de información. Incluye la confidencialidad, la integridad, la autenticación, la autorización, y la no repudiación.
+* **Compatibilidad:** El sistema únicamente extrae adecuadamaente los datos de CURPs escaneadas
+* **Seguridad:** 
