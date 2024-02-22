@@ -10,7 +10,7 @@ class Main:
     extractor = Extractor_datos()
     
     
-    ruta_pdf = '/Users/becario/Desktop/HOLA4.pdf' 
+    ruta_pdf = '/Insertar/Ruta/DelArchivoDeseado/HOLA4.pdf' 
     texto_extraido = ocr.pdf_a_texto(ruta_pdf)
     
     print(texto_extraido)
